@@ -1,0 +1,24 @@
+{
+  "search_titles": [
+    "Software Engineer",
+    "Data Scientist",
+    "Product Manager"
+  ],
+  "platforms": [
+    "naukri",
+    "remoteok",
+    "wellfound"
+  ],
+  "platform_urls": {
+    "naukri": "https://www.naukri.com",
+    "remoteok": "https://remoteok.io",
+    "wellfound": "https://wellfound.com"
+  },
+  "output_path": "data/jobs.csv",
+  "remoteok_api_url": "https://remoteok.com/api",
+  "naukri_api_url": "https://www.naukri.com/jobapi/v2/search",
+  "firecrawl_api_url": "https://api.firecrawl.dev/v2",
+  "wellfound_max_pages": 1,
+  "timestamped_output": false,
+  "rate_limit_seconds": 2
+}

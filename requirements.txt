@@ -1,0 +1,7 @@
+beautifulsoup4
+selenium
+requests
+pandas
+python-dotenv
+firecrawl
+pytest
